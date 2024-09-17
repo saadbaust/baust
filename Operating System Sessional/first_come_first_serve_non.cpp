@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;x
+using namespace std;
 
 // This is non-preemtive FCFS code. This code will work if there is not idle CPU time and the inputs are sorted according to arrival_time**
 // TO DO: Sort input and handle idle time
